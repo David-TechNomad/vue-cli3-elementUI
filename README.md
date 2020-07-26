@@ -7,7 +7,7 @@ vue cli3+elementUI
 git clone https://github.com/dsh225/vue-cli3-elementUI.git
 
 # 进入项目目录
-cd rvue-cli3-elementUI
+cd vue-cli3-elementUI
 
 # 安装依赖
 npm install
