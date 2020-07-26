@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "vue-cli3-elementUI",
   "version": "2.3.0",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "vue-cli3-elementUI",
+  "author": "dsh",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve --open",
@@ -37,7 +37,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://github.com/dsh225/vue-cli3-elementUI.git"
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.4.0",
